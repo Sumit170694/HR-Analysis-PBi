@@ -42,11 +42,11 @@ AI visual that breaks down salary by gender → education → department → job
 
 ### 6. Key Influencers
 Identifies the key factors influencing salary — such as job role, education level, and gender.  
-![Key Influencers](key influencers.png)
+![Key Influencers](key_influencers.png)
 
 ### 7. Top Segments
 Displays salary distribution across top-performing employee groups.  
-![Top Segments](top segments.png)
+![Top Segments](top_segments.png)
 
 ---
 
